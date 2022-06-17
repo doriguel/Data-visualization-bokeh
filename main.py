@@ -1,4 +1,4 @@
-"""Bokeh Autompg Example"""
+"""Rotary Lipseals Dashboard"""
 
 from flask import Flask, render_template
 from datetime import date
