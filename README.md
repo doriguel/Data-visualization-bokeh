@@ -5,4 +5,4 @@ To run the application, navigate to the main folder and type <b>python main.py</
 
 Screenshot:
 
-![](../../blob/master/images/dash.png)
+![](../blob/master/images/dash.png)
